@@ -29,7 +29,7 @@ To some extent, Grafika can be treated as a companion to the
 [Android System-Level Graphics Architecture](http://source.android.com/devices/graphics/architecture.html)
 document.  The doc explains the technology that the examples rely on, and uses some of
 Grafika's activities as examples.  If you want to understand how the code here works, start
-by reading that.
+by reading thatd.
 
 There is some overlap with the code on http://www.bigflake.com/mediacodec/.
 The code there largely consists of "headless" CTS tests, which are designed
